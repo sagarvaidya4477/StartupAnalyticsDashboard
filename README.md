@@ -30,5 +30,5 @@ This is a Streamlit-based web application for analyzing startups, funding trends
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository/startup-dashboard.git
+   https://github.com/sagarvaidya4477/StartupAnalyticsDashboard
 
